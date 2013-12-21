@@ -1,4 +1,4 @@
 WebRef
 ======
 
-A web page with some reference info like what's in the Pocket Ref book.
+A lightweight web page with some reference info like what's in the Pocket Ref book.
